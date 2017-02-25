@@ -1,2 +1,5 @@
 nix-project-tool:
-  expression: "let nixpkgs = import ./deps/nixpkgs {}; in nixpkgs.callPackage ../np-cabal {}"
+  location:
+    git: https://github.com/roberth/np-cabal.git
+    rev: 8eb1d6646954c7fe2c3e17edf0fb6d1a327a0ddc
+    sha256: 0ir73dhbrm5q1hvfilpq4jfb9q23idbnn20hch6v2845wl4avp4y
