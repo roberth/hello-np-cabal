@@ -1,5 +1,5 @@
 nix-project-tool:
   location:
     git: https://github.com/roberth/np-cabal.git
-    rev: 8eb1d6646954c7fe2c3e17edf0fb6d1a327a0ddc
-    sha256: 0ir73dhbrm5q1hvfilpq4jfb9q23idbnn20hch6v2845wl4avp4y
+    rev: 9d2c571c209b9f64c76711f1f22d1d0ff89e1c77
+    sha256: 0zc83n2gd8k7azmxb3cmqyzlcn1334xw046p6jif7a61lrjr1zff

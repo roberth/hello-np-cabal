@@ -1,5 +1,4 @@
 dist/
 result
 result-*
-.nix-project-cache/
-
+.nix-project/
